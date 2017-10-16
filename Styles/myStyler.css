@@ -8,6 +8,7 @@ body
 p
 h1 strong #embedded{
 	color: red;
+	font-size: 30px
 	
 }
 .external em
