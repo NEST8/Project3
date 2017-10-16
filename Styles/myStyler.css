@@ -1,5 +1,10 @@
+body
+{
+	background: "blksand.jpg";
+}
+
 .external
-p
+h1 LEICA
 {
 	color: red ;
 	
@@ -8,5 +13,4 @@ p
 p
 {
 	font-size: 20pt;
-	color: #9900cc;
 }
