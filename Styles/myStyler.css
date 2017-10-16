@@ -1,19 +1,7 @@
-p{
-
-body
-{
-	background:"blksand.jpg"
+body { 
+	background:blksand.jpg; 
 }
-
-p
-h1 strong #embedded{
+h1{
 	color: red;
-	font-size: 30px
-	
-}
-.external em
-p em
-{
-	font-size: 20pt;
-}	
+	font-size: 30px;
 }
