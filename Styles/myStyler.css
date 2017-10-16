@@ -6,8 +6,8 @@ body
 }
 
 p
-h1 strong{
-	color: red ;
+h1 strong #embedded{
+	color: red;
 	
 }
 .external em
