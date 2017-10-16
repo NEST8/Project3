@@ -1,16 +1,18 @@
+p{
+
 body
 {
-	background: "blksand.jpg";
+	background:"blksand.jpg"
 }
 
-.external
-h1 LEICA
-{
+p
+h1 strong{
 	color: red ;
 	
 }
-.external 
-p
+.external em
+p em
 {
 	font-size: 20pt;
+}	
 }
